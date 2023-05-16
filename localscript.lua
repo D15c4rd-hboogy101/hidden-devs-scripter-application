@@ -1,3 +1,5 @@
+-- there may be a few weird things about the code but you get the idea
+
 local RunService = game:GetService("RunService")
 local ContextActionService = game:GetService("ContextActionService")
 local TweenService = game:GetService("TweenService")
